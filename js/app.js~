@@ -1,0 +1,5 @@
+YUI().use('node', function (Y) {
+    //
+    var contentnode = Y.Node.create('<div>');
+    });
+

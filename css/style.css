@@ -1,0 +1,11 @@
+#article {
+    position: absolute;
+    left: 300px;
+    top: 150px;
+    width: 600px;
+}
+
+#nav {
+    position: absolute;
+    top: 200px;
+}

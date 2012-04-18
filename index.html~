@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Blog-Press</title>
+<!-- Some meta and CSS JS here -->
+<script src="http://yui.yahooapis.com/3.5.0/build/yui/yui-min.js"></script>
+</head>
+<body>
+<h1></h1>
+<p></p>
+</body>
+</html>
