@@ -1,3 +1,8 @@
+body {
+    background: black;
+    color:white;
+}
+
 #article {
     position: absolute;
     left: 300px;
